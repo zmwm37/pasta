@@ -5,4 +5,4 @@ Basic Neo4j graph of "The Pasta Nostra" drawing by Wendy MacNaughton in Samin No
 
 ## Pasta Nostra
 
-![Wendy MacNaughton's drawing](pastNostra.jpg)
+![Wendy MacNaughton's drawing](pastaNostra.jpg)
